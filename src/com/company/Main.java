@@ -51,6 +51,7 @@ public class Main extends Application {
 
             View2.setImage(image3);
             //niyat
+            //
         });
         menuItem2.setOnAction(actionEvent -> {
 
