@@ -50,6 +50,7 @@ public class Main extends Application {
         menuItem3.setOnAction(actionEvent -> {
 
             View2.setImage(image3);
+            //niyat
         });
         menuItem2.setOnAction(actionEvent -> {
 
